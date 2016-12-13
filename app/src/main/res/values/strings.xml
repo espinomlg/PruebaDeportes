@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Deportes</string>
+    <string name="sports_txv_intro">Selecciona los deportes que te gustan y pulsa aceptar</string>
+    <string name="sports_btn_accept">Aceptar</string>
+    <string name="sports_txv_empty">No hay datos</string>
+
+    <!-- sports -->
+    <string name="basketball">basketball</string>
+    <string name="volleyball">volleyball</string>
+    <string name="hockey">hockey</string>
+    <string name="darts">darts</string>
+    <string name="ping_pong">ping pong</string>
+    <string name="athletism">athletism</string>
+    <string name="swimming">swimming</string>
+    <string name="footbal">footbal</string>
+    <string name="rugby">rugby</string>
+    <string name="snowboard">snowboard</string>
+    <string name="data_saved">Changes are saved</string>
+    <string name="menu_filter">Filtrar deportes</string>
+    <string name="filter_action">Filter sports</string>
+    <string name="dialog_ok">filter</string>
+</resources>
